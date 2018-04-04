@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\UnicodeLeoK\UnicodeLeoK\obj\Debug\UnicodeLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\UnicodeLeoK\UnicodeLeoK\obj\Debug\UnicodeLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\UnicodeLeoK\UnicodeLeoK\obj\Debug\UnicodeLeoK.frmUnicodeLeoK.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\UnicodeLeoK\UnicodeLeoK\obj\Debug\UnicodeLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\UnicodeLeoK\UnicodeLeoK\bin\Debug\UnicodeLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\UnicodeLeoK\UnicodeLeoK\bin\Debug\UnicodeLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\UnicodeLeoK\UnicodeLeoK\bin\Debug\UnicodeLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\UnicodeLeoK\UnicodeLeoK\obj\Debug\UnicodeLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\UnicodeLeoK\UnicodeLeoK\obj\Debug\UnicodeLeoK.pdb
